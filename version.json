@@ -1,5 +1,5 @@
 {
- "version": "1.3",
- "notas": "En Ajustes, abajo: la versión, «Buscar actualizaciones» y «Acerca de».",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.3/WACuentas-1.3.zip"
+ "version": "1.4",
+ "notas": "Los chats fijados, juntos en un recuadro (y se fijan o desfijan con clic derecho en la lista de todos los chats). Y ya no puede bajarse por error el instalador de WhatsApp para Mac.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.4/WACuentas-1.4.zip"
 }
