@@ -1,5 +1,5 @@
 {
- "version": "1.5",
- "notas": "La vista de todos a la vez y la de chats juntos sin la barra de arriba, para ver más. Cada chat en un recuadro con el color de su número (también los fijados), la chincheta más visible y los borradores con un lápiz.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.5/WACuentas-1.5.zip"
+ "version": "1.6",
+ "notas": "Telegram junto a WhatsApp (también en la lista única, con sus temas y en el color de cada cuenta), pantallas a medida, chats que se abren al momento y sin saltos, quién escribe en los grupos, y la lista con el ancho que le des. Esta vez macOS puede volver a pedir el permiso del micrófono; desde ahora ya no lo pedirá en cada versión.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.6/WACuentas-1.6.zip"
 }
