@@ -1,5 +1,5 @@
 {
- "version": "1.4",
- "notas": "Los chats fijados, juntos en un recuadro (y se fijan o desfijan con clic derecho en la lista de todos los chats). Y ya no puede bajarse por error el instalador de WhatsApp para Mac.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.4/WACuentas-1.4.zip"
+ "version": "1.5",
+ "notas": "La vista de todos a la vez y la de chats juntos sin la barra de arriba, para ver más. Cada chat en un recuadro con el color de su número (también los fijados), la chincheta más visible y los borradores con un lápiz.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.5/WACuentas-1.5.zip"
 }
