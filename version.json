@@ -1,5 +1,5 @@
 {
- "version": "1.2",
- "notas": "El ancho de la lista de chats se mueve a la vez en todos los números (o cada uno el suyo, en Ajustes). Y las versiones nuevas se ven al momento.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.2/WACuentas-1.2.zip"
+ "version": "1.3",
+ "notas": "En Ajustes, abajo: la versión, «Buscar actualizaciones» y «Acerca de».",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.3/WACuentas-1.3.zip"
 }
