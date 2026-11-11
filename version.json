@@ -1,5 +1,5 @@
 {
- "version": "1.8",
- "notas": "Control de avisos: por número (quitarlos, sin sonido, o silenciar 1 hora, 8 horas, hasta mañana o para siempre) y por chat (clic derecho en la lista de «todos los chats juntos»). En Ajustes, en el clic derecho de cada número y en el menú Avisos. ⌥⌘K quita los avisos de la pantalla.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.8/WACuentas-1.8.zip"
+ "version": "1.9",
+ "notas": "En «todos los chats juntos»: el buscador enseña también los contactos de Telegram, y los avisos de abajo a la izquierda (como el «Abrir» de una descarga) salen a la vista en vez de quedarse tapados por la lista.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.9/WACuentas-1.9.zip"
 }
