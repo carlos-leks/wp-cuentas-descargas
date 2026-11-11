@@ -1,5 +1,5 @@
 {
- "version": "1.9",
- "notas": "En «todos los chats juntos»: el buscador enseña también los contactos de Telegram, y los avisos de abajo a la izquierda (como el «Abrir» de una descarga) salen a la vista en vez de quedarse tapados por la lista.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.9/WACuentas-1.9.zip"
+ "version": "1.10",
+ "notas": "El sonido de los avisos ya respeta lo que eliges: si quitas el sonido (para todos, para un número o para un chat), WhatsApp y Telegram dejan de sonar. Las notas de voz y los vídeos suenan como siempre.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.10/WACuentas-1.10.zip"
 }
