@@ -1,5 +1,5 @@
 {
- "version": "1.7",
- "notas": "Contactos en el buscador de «todos los chats juntos»: sale la gente sin chat de cada WhatsApp, con el color del número y desde cuál le escribirás.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.7/WACuentas-1.7.zip"
+ "version": "1.8",
+ "notas": "Control de avisos: por número (quitarlos, sin sonido, o silenciar 1 hora, 8 horas, hasta mañana o para siempre) y por chat (clic derecho en la lista de «todos los chats juntos»). En Ajustes, en el clic derecho de cada número y en el menú Avisos. ⌥⌘K quita los avisos de la pantalla.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.8/WACuentas-1.8.zip"
 }
