@@ -1,5 +1,5 @@
 {
- "version": "1.10",
- "notas": "El sonido de los avisos ya respeta lo que eliges: si quitas el sonido (para todos, para un número o para un chat), WhatsApp y Telegram dejan de sonar. Las notas de voz y los vídeos suenan como siempre.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.10/WACuentas-1.10.zip"
+ "version": "1.11",
+ "notas": "En «todos los chats juntos»: borrar un mensaje ya no hace saltar la página, y las ventanitas (como «¿Eliminar mensaje?») salen en medio de lo que se ve. Telegram se recarga solo si se queda sin conexión.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.11/WACuentas-1.11.zip"
 }
