@@ -1,5 +1,5 @@
 {
- "version": "1.11",
- "notas": "En «todos los chats juntos»: borrar un mensaje ya no hace saltar la página, y las ventanitas (como «¿Eliminar mensaje?») salen en medio de lo que se ve. Telegram se recarga solo si se queda sin conexión.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.11/WACuentas-1.11.zip"
+ "version": "1.12",
+ "notas": "En «todos los chats juntos», los PDF y las fotos se abren en la parte del chat, y al cerrarlos ya no asoma un momento la lista de WhatsApp.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.12/WACuentas-1.12.zip"
 }
