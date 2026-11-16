@@ -1,5 +1,5 @@
 {
- "version": "1.12",
- "notas": "En «todos los chats juntos», los PDF y las fotos se abren en la parte del chat, y al cerrarlos ya no asoma un momento la lista de WhatsApp.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.12/WACuentas-1.12.zip"
+ "version": "1.13",
+ "notas": "El buscador de «todos los chats juntos» ya no se pone a escribir repetido sin parar.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.13/WACuentas-1.13.zip"
 }
