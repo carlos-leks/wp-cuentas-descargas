@@ -1,5 +1,5 @@
 {
- "version": "1.13",
- "notas": "El buscador de «todos los chats juntos» ya no se pone a escribir repetido sin parar.",
- "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.13/WACuentas-1.13.zip"
+ "version": "1.14",
+ "notas": "En «todos los chats juntos», al pulsar un chat se abre ese, también los de abajo del todo; antes a veces se quedaba el anterior.",
+ "url": "https://github.com/carlos-leks/wp-cuentas-descargas/releases/download/v1.14/WACuentas-1.14.zip"
 }
